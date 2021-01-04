@@ -93,4 +93,7 @@ footer p{
     text-align: center;
     font-family: Open Sans;
     font-weight: 300px;
+    font-size: 50pxpx;
+    text-shadow: 5px 5px 10px rgba(211, 211, 211, 0.336);
 }
+
